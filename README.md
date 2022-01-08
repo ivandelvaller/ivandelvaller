@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ivandelvaller
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Laravel and other awesome technologies.
-- 💞️ I’m looking to collaborate on any project.
+- 👋 Hi, I’m @ivandelvaller a fullstack.
+- 👀 I’m interested in IT technologies.
+- 🌱 I’m currently learning everything about JavaScript and so on.
+- 🔧 I’m working for Tendencys Innovations. Currently migrating a platform from PHP(MVC) to React.
 - 📫 How to reach me -> https://twitter.com/ivan_delvalle10
 
 <!---
