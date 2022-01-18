@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivandelvaller a fullstack.
 - 👀 I’m interested in IT technologies.
-- 🌱 I’m currently learning everything about JavaScript and so on.
-- 🔧 I’m working for Tendencys Innovations. Currently migrating a platform from PHP(MVC) to React.
+- 🌱 I’m currently learning everything about JavaScript and coding some Rust. 🤟
+- 🔧 I’m working for Tendencys Innovations. ReactJS 💙
 - 📫 How to reach me -> https://twitter.com/ivan_delvalle10
 
 <!---
