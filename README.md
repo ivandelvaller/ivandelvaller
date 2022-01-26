@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivandelvaller a fullstack.
+- 👋 Hi, I’m @ivandelvaller: just another JavaScript coder.
 - 👀 I’m interested in IT technologies.
 - 🌱 I’m currently learning everything about JavaScript and coding some Rust. 🤟
 - 🔧 I’m working for Tendencys Innovations. ReactJS 💙
