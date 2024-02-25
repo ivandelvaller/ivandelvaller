@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivandelvaller: just another JavaScript coder.
 - 👀 I’m interested in IT technologies.
 - 🌱 I’m currently learning everything about JavaScript and coding some Rust. 🤟
-- 🔧 I’m working for Tendencys Innovations. ReactJS 💙
+- 🔧 I’m working in Unilinktransportation. ReactJS 💙
 - 📫 How to reach me -> https://twitter.com/ivan_delvalle10
 
 <!---
