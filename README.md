@@ -9,5 +9,7 @@ My principal responsibilities have been to automate tasks and central processes,
 One of my goals is to create awareness about how much important technologie is, not just for companies, but to the world in general. And teach companies why they need to delegate effort to computers and not to humans, this way we can take adventage of every person's talent.
 
 Lenguages: Javascript | ==Typescript== ♥️  || Currently learning C# and .NET.
+
 Cloud Provider: **AWS**.
+
 DevTools: Docker, Git.
